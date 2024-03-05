@@ -7,3 +7,9 @@ You’ll then have to clean up the image using mathematical morphology operation
 
 You will then use contours to group adjacent foreground pixels, which will allow you to isolate and count the fruit and find the center coordinates (x, y in pixels) for each one. 
 
+# Result 
+![image](https://github.com/tan200224/Computer-Vision/assets/68765056/b367c5a9-54b6-4a16-835f-05a3991342ee)
+
+![image](https://github.com/tan200224/Computer-Vision/assets/68765056/c179dc60-28bb-474e-a533-550112f1fab5)
+
+![image](https://github.com/tan200224/Computer-Vision/assets/68765056/4968c03e-95d9-4409-b0e9-2681ccb563e3)
